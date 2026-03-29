@@ -122,3 +122,8 @@ src/
     trader.ts
     position-manager.ts
 ```
+
+## 📞 Support
+
+- telegram: https://t.me/trade_SEB
+- twitter:  https://x.com/TradeSEB_
